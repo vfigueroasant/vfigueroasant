@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Víctor Figueroa</h1>
-<h3 align="center">I'm a data science enthusiast</h3>
+<h3 align="center">I'm a data science</h3>
 
 - 💬 Ask me about **ML,BigData,Statistics,DataScience**
 
